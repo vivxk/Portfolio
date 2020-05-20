@@ -1,0 +1,70 @@
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+body{
+    background-color:darkgray;
+    height: 100%;
+    width: 100%;
+    background-size: 180%;
+    }
+
+.about
+{
+    text-align: center;
+    border-style: ridge;
+    border-radius: 60px;
+    margin: 50px;
+    font-size: 130%;
+    padding:2%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    }
+
+.techs{
+    font-size: 130%;
+    text-align: center;
+    border-radius: 55px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: ridge;
+    margin: 50px;
+    padding: 3%;
+    }
+
+.edu{
+    font-size: 130%;
+    text-align: center;
+    border-radius: 55px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: ridge;
+    margin: 50px;
+    padding: 3%;
+    padding-bottom: 1%;
+}    
+
+.soc{
+    font-size: 130%;
+    text-align: center;
+    border-radius: 55px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: ridge;
+    margin: 50px;
+    padding: 3%;
+    padding-bottom: 1%;
+    
+}
+
+a:hover{
+    background-color: white;
+    display: inline-block;
+
+    }
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
